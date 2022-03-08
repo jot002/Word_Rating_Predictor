@@ -1,13 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-// Title:              Predictor
-// Files:              None
-// Quarter:            CSE 8B Spring 2021
-//
-// Author:             Jonathan Tran
-// Email:              jot002@ucsd.edu
-// Instructor's Name:  Professor Allos
-//
-///////////////////////////////////////////////////////////////////////////////
 import java.io.*;
 import java.util.*;
 
